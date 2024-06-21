@@ -13,7 +13,7 @@ Zhou J, Chen S, Xia J, Liu S, __Ling T__, Du W, Liu Y, Yin J, Li S.arXiv. 2024.
 Zhang X\*, __Ling T\*__, Jin Z\*, Xu S*, Gao Z, Sun B, Qiu Z, Dong N, Wang G, Wang G, Li L, Mageed M, Lakshmanan L, Ouyang W#, Chang C#, Sun S#. bioRxiv Preprint, 2024.<br/>
 
 **[3] Introducing π-HelixNovo for Practical Large-scale De Novo Peptide Sequencing** <br/>
-Yang T, Ling T, Sun B, Liang Z, Xu F, Huang X, Xie L, He Y, Li L, He F, Wang Y#, Chang C#.Brief Bioinform. 2024.<br/>
+Yang T, __Ling T__, Sun B, Liang Z, Xu F, Huang X, Xie L, He Y, Li L, He F, Wang Y#, Chang C#.Brief Bioinform. 2024.<br/>
 
 **[4] ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**<br/>
 Jin Z*, Xu S*, Zhang X*, __Ling T__, Dong, N, Ouyang, W#, Gao, Z#, Chang, C#, Sun, S#. AAAI.2024.<br/>
