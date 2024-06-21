@@ -10,7 +10,7 @@ author_profile: true
 Zhou J, Chen S, Xia J, Liu S, __Ling T__, Du W, Liu Y, Yin J, Li S.arXiv. 2024.
 
 **[2] π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing** <br/>
-Zhang X*, __Ling T\*__, Jin Z*, Xu S*, Gao Z, Sun B, Qiu Z, Dong N, Wang G, Wang G, Li L, Mageed M, Lakshmanan L, Ouyang W#, Chang C#, Sun S#. bioRxiv Preprint, 2024.<br/>
+Zhang X\*, __Ling T\*__, Jin Z\*, Xu S*, Gao Z, Sun B, Qiu Z, Dong N, Wang G, Wang G, Li L, Mageed M, Lakshmanan L, Ouyang W#, Chang C#, Sun S#. bioRxiv Preprint, 2024.<br/>
 
 **[3] Introducing π-HelixNovo for Practical Large-scale De Novo Peptide Sequencing** <br/>
 Yang T, Ling T, Sun B, Liang Z, Xu F, Huang X, Xie L, He Y, Li L, He F, Wang Y#, Chang C#.Brief Bioinform. 2024.<br/>
