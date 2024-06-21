@@ -12,7 +12,7 @@ title                    : "Tianze's homepage"
 title_separator          : "-"
 name                     : &name "Tianze Ling"
 description              : &description "personal description"
-url                      : "https://TianzeLing.github.io/"
+url                      : "https://TianzeLing.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianzeling98/TianzeLing.github.io"
 
