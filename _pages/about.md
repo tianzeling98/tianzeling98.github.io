@@ -10,7 +10,7 @@ redirect_from:
 I am currently a fourth-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of Professor [Fuchu He](https://baike.baidu.com/item/%E8%B4%BA%E7%A6%8F%E5%88%9D/4313734). Prior to this, I obtained my bachelor's degree from [Sun Yat-sen University](https://www.sysu.edu.cn/). Currently, I am focusing on the fields of deep learning and bioinformatics, especially on decoding mass spectrometry-based proteomic data.  
 
 ## Research Interests 
-Mass spectrometry data serve as both the starting point and the fundamental unit for proteomic data analysis. My research focuses on developing deep learning-basedanalytical    algorithms to explore mass spectrometry-based proteomic data from qualitative and quantitative perspectives. These efforts include:<br>  
+Mass spectrometry data serve as both the starting point and the fundamental unit for proteomic data analysis. My research focuses on developing deep learning-based analytical    algorithms to explore mass spectrometry-based proteomic data from qualitative and quantitative perspectives. These efforts include:<br>  
 (1) Unsupervised representation learning methods to decode complex patterns in tandemmass spectra.<br>  
 (2) Algorithms for de novo sequencing identification in tandem mass spectra.<br>  
 (3) Algorithms designed to correct absolute protein quantification by predicting peptidebiases during enzymatic digestion, liquid chromatography and in a mass spectrometer.
