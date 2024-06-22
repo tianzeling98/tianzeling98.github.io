@@ -19,7 +19,7 @@ Yang T, __Ling T__, Sun B, Liang Z, Xu F, Huang X, Xie L, He Y, Li L, He F, Wang
 [\[Paper\]](https://www.biorxiv.org/content/10.1101/2024.05.17.594647v1)<br/>
 
 **[4] ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**<br/>
-Jin Z*, Xu S*, Zhang X*, __Ling T__, Dong, N, Ouyang, W#, Gao, Z#, Chang, C#, Sun, S#. AAAI 2024.<br/>
+Jin Z\*, Xu S\*, Zhang X\*, __Ling T__, Dong, N, Ouyang, W#, Gao, Z#, Chang, C#, Sun, S#. AAAI 2024.<br/>
 [\[Paper\]](https://arxiv.org/abs/2312.11584)
 
 **[5] AdaNovo: Adaptive De Novo Peptide Sequencing with Conditional Mutual Information**<br/>
