@@ -12,9 +12,9 @@ title                    : "Tianze's homepage"
 title_separator          : "-"
 name                     : #&name "Tianze Ling"
 description              : #&description "personal description"
-url                      : "https://tianzeling98.github.io/TianzeLing.github.io/"
+url                      : "https://tianzeling98.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tianzeling98/TianzeLing.github.io"
+repository               : "tianzeling98/tianzeling98.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
