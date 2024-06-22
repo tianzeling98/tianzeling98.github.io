@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tianze's homepage"
+title                    : "TianzeLing@THU"
 title_separator          : "-"
 name                     : #&name "Tianze Ling"
 description              : #&description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Tianze Ling 凌天泽"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate @ Tsinghua University and National Center for Protein Science (Beijing)"
-  location         : "Beijing&Shenzhen,China"
+  location         : "Beijing & Shenzhen,China"
   #employer         : "Red Brick University"
   uri              : # URL
   email            : "ltz20@mails.tsinghua.edu.cn" 
