@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I am from Huangshan, China, and is currently a fourth-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of Professor [Fuchu He](https://baike.baidu.com/item/%E8%B4%BA%E7%A6%8F%E5%88%9D/4313734). Prior to this, I obtained my bachelor's degree from [Sun Yat-sen University](https://www.sysu.edu.cn/). Currently, I am focusing on the fields of deep learning and bioinformatics, especially on decoding mass spectrometry-based proteomic data.  
+I am from Huangshan, China, and I am currently a fourth-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of Professor [Fuchu He](https://baike.baidu.com/item/%E8%B4%BA%E7%A6%8F%E5%88%9D/4313734). Prior to this, I obtained my bachelor's degree from [Sun Yat-sen University](https://www.sysu.edu.cn/). Currently, I am focusing on the fields of deep learning and bioinformatics, especially on decoding mass spectrometry-based proteomic data.  
 
 ## Research Interests 
 Mass spectrometry data serve as both the starting point and the fundamental unit for proteomic data analysis. My research focuses on developing deep learning-basedanalytical    algorithms to explore mass spectrometry-based proteomic data from qualitative and quantitative perspectives. These efforts include:<br>  
