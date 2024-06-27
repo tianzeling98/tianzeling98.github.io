@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "TianzeLing 凌天泽@THU"
+title                    : "TianzeLING 凌天泽@THU"
 title_separator          : "-"
-name                     : #&name "Tianze Ling"
+name                     : #&name "Tianze LING"
 description              : #&description "personal description"
 url                      : "https://tianzeling98.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "tianzeling98/tianzeling98.github.io"
 author:
   # Biographic information
   avatar           : "myself.png"
-  name             : "Tianze Ling 凌天泽"
+  name             : "Tianze LING 凌天泽"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate @ Tsinghua University and National Center for Protein Science (Beijing)"
   location         : "Beijing & Shenzhen,China"
