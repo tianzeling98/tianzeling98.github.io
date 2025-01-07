@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0006-6715-2553"
+  orcid            : #"https://orcid.org/0009-0006-6715-2553"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Tianze-Ling"
@@ -68,8 +68,9 @@ author:
   twitter          : "https://x.com/TianzeLing"
   vine             : # Username
   weibo            : # Username
+  weichat          : 18955972976
   wikipedia        : # Username
-  xing             : # Username
+  xing             : #
   youtube          : # Username
   zhihu            : # URL
 
