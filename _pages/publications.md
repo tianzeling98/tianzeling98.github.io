@@ -8,7 +8,7 @@ author_profile: true
 
 **π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing** <br/>
 Zhang X\*, __Ling T\*__, Jin Z\*, Xu S*, Gao Z, Sun B, Qiu Z, Wei J, Dong N, Wang G, Wang G, Li L, Mageed M, Lakshmanan L, He F, Ouyang W#, Chang C#, Sun S#. Nature Communications. 2024.<br/>
-[\[Paper\]](https://rdcu.be/d5o3G) [\[π-HuB project WeChat Official Account\](https://mp.weixin.qq.com/s/jzehYaZXuV_IRq2o-Ps-KQ) [\[DrugAI WeChat Official Account\]](https://mp.weixin.qq.com/s/PXHeTYclvaZ235Zx6i5Osg)<br/>
+[\[Paper\]](https://rdcu.be/d5o3G) [\[π-HuB project WeChat Official Account\]](https://mp.weixin.qq.com/s/jzehYaZXuV_IRq2o-Ps-KQ) [\[DrugAI WeChat Official Account\]](https://mp.weixin.qq.com/s/PXHeTYclvaZ235Zx6i5Osg)<br/>
 
 **NovoBench: Benchmarking Deep Learning-based De Novo Peptide Sequencing Methods in Proteomics**<br/>
 Zhou J, Chen S, Xia J, Liu S, __Ling T__, Du W, Liu Y, Yin J, Li S. arXiv. 2024.<br/>
