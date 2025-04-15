@@ -16,6 +16,7 @@ Mass spectrometry data serve as both the starting point and the fundamental unit
 (3) Algorithms designed to correct absolute protein quantification by predicting peptidebiases during enzymatic digestion, liquid chromatography and in a mass spectrometer.
 
 ## News
+- __April 2025__: Excited to receive [ASMS 2025 Graduate Student Award](https://asms.org/about-asms-awards/student-travel-awards)!<br>
 - __January 2025__: Our non-autoregressive denovo sequencing model [Π-PrimeNovo](https://rdcu.be/d5o3G) is published in __Nature Communications__!<br>
 - __June 2024__: I present Π-SPECFormer (a pre-trained model for mass spectrometry-based proteomic data) at [72nd ASMS conference](https://www.asms.org/conferences/annual-conference/annual-conference-homepage) (poster presentation)!<br>
 - __February 2024__: Our denovo sequencing model based on "complementary spectrum" [Π-HelixNovo](https://academic.oup.com/bib/article/25/2/bbae021/7604886) is published in __Briefings in Bioinformatics__!<br>
