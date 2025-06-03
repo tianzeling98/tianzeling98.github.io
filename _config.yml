@@ -24,7 +24,7 @@ author:
   avatar           : "myself.png"
   name             : "Tianze LING 凌天泽"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate @ Tsinghua University" #and National Center for Protein Science (Beijing)
+  bio              : "Ph.D. candidate @ Tsinghua University and National Center for Protein Science (Beijing)"
   location         : "Beijing, China"
   #employer         : "Red Brick University"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : #"https://orcid.org/0009-0006-6715-2553"
   semantic         : # URL
