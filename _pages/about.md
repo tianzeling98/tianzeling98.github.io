@@ -19,7 +19,7 @@ Mass spectrometry data serve as both the starting point and the fundamental unit
 
 ## News
 - __June 2025__: I present Π-DeepLaM (a deep learning-based strategy for lactylation identification) at 73rd ASMS conference!
-- __April 2025__: [I am very excited to receive [ASMS 2025 Graduate Student Award](https://asms.org/about-asms-awards/student-travel-awards), especially as the only recipient from a Chinese university!](../images/asms_award.png)<br>
+- __April 2025__: I am very excited to receive [ASMS 2025 Graduate Student Award](https://asms.org/about-asms-awards/student-travel-awards), especially as the only recipient from a Chinese university![photo](../images/asms_award.png)<br>
 - __September 2024 & January 2025__: I simultaneously win the first-class scholarship for graduate students from Tsinghua University and the National Center for Protein Sciences (Beijing), which is an incredible honor  and a great encouragement to me!<br>
 - __January 2025__: Our non-autoregressive denovo sequencing model [Π-PrimeNovo](https://rdcu.be/d5o3G) is published in __Nature Communications__!<br>
 - __June 2024__: I present Π-SPECFormer (a pre-trained model for mass spectrometry-based proteomic data) at 72nd ASMS conference!<br>
