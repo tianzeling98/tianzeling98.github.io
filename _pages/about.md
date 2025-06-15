@@ -12,9 +12,9 @@ If you are interested in what we are doing, don’t hesitate to send me an email
 
 ## Research Interests 
 Mass spectrometry data serve as both the starting point and the fundamental unit for proteomic data analysis. My research focuses on developing deep learning-based algorithms to explore mass spectrometry-based proteomic data. Meanwhile, we are also exploring the application of these algorithms for the study of dark proteome. These efforts include:<br>  
-(1) Unsupervised representation learning methods to decode complex patterns in tandem mass spectra.
-(2) Algorithms for de novo sequencing identification in tandem mass spectra.
-(3) Algorithms designed to correct absolute protein quantification by predicting peptide biases during enzymatic digestion, liquid chromatography and in a mass spectrometer.
+(1) Unsupervised representation learning methods to decode complex patterns in tandem mass spectra.<br>
+(2) Algorithms for de novo sequencing identification in tandem mass spectra.<br>
+(3) Algorithms designed to correct absolute protein quantification by predicting peptide biases during enzymatic digestion, liquid chromatography and in a mass spectrometer.<br>
 (4) Comprehensive bioinformatics mining of unannotated components of proteomic data, systematically exploring mutation, alternative splicing, PTMs and non-canonical small proteins.
 
 ## News
