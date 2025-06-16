@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&#128515;## About me 
+## About me &#128515;
 I am currently a Ph.D. candidate at [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Cheng Chang](https://i-share.ncpsb.org.cn/genee/post/167)/[Fuchu He](https://baike.baidu.com/item/%E8%B4%BA%E7%A6%8F%E5%88%9D/4313734). I obtained my bachelor's degree from [Sun Yat-sen University](https://lifesciences.sysu.edu.cn/). Currently, I am focusing on the fields of deep learning and bioinformatics, especially on decoding mass spectrometry-based proteomic data. 
 If you are interested in what we are doing, don’t hesitate to send me an email—any discussion or cooperation is very welcome.
 
