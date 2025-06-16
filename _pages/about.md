@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-&#128515;I am currently a Ph.D. candidate at [Tsinghua University](https://life.tsinghua.edu.cn/), supervised by Prof. [Cheng Chang](https://orcid.org/0000-0002-0361-2438)/[Fuchu He](https://pi-hub.org.cn/news/show_who_scientific_info/91). I obtained my bachelor's degree from [Sun Yat-sen University](https://lifesciences.sysu.edu.cn/). Currently, I am focusing on the fields of deep learning and bioinformatics, especially on decoding mass spectrometry-based proteomic data. 
+&#128515;I am currently a Ph.D. candidate at [Tsinghua University](https://life.tsinghua.edu.cn/), supervised by Prof. [Cheng Chang](https://orcid.org/0000-0002-0361-2438)/[Fuchu He](https://pi-hub.org.cn/news/show_who_scientific_info/91). I obtained my bachelor's degree from [Sun Yat-sen University](https://lifesciences.sysu.edu.cn/). Currently, I am focusing on the fields of deep learning and bioinformatics, especially on decoding mass spectrometry-based proteomic data.<br> 
 &#128293;If you are interested in what we are doing, don’t hesitate to send me an email—any discussion or cooperation is very welcome.
 
 ## Research Interests
