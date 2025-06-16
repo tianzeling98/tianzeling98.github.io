@@ -9,11 +9,10 @@ redirect_from:
 # About me
 &#128515;I am currently a Ph.D. candidate at [Tsinghua University](https://life.tsinghua.edu.cn/), supervised by Prof. [Cheng Chang](https://orcid.org/0000-0002-0361-2438)/[Fuchu He](https://pi-hub.org.cn/news/show_who_scientific_info/91). I obtained my bachelor's degree from [Sun Yat-sen University](https://lifesciences.sysu.edu.cn/). Currently, I am focusing on the fields of deep learning and bioinformatics, especially on decoding mass spectrometry-based proteomic data.<br> 
 &#128293;If you are interested in what we are doing, don’t hesitate to send me an email—any discussion or cooperation is very welcome.
-
 # Research Interests
 ## &#128073;Overview
 ![photo](../images/research_overview.png)<br>
-## Details
+## &#128526;Details
 Mass spectrometry data serve as both the starting point and the fundamental unit for proteomic data analysis. My research focuses on developing deep learning-based algorithms to explore mass spectrometry-based proteomic data. Meanwhile, we are also exploring the application of these algorithms for the study of dark proteome. These efforts include:<br>
 &#128309;Unsupervised learning methods to decode complex patterns in tandem mass spectra.<br>
 &#128309;Algorithms for de novo sequencing identification in tandem mass spectra.<br>
