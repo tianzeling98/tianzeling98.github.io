@@ -11,9 +11,9 @@ redirect_from:
 &#128293;If you are interested in what we are doing, don’t hesitate to send me an email—any discussion or cooperation is very welcome.
 
 # Research Interests
-## &#128073;Overview:
+## &#128073;Overview
 ![photo](../images/research_overview.png)<br>
-## Details:
+## Details
 Mass spectrometry data serve as both the starting point and the fundamental unit for proteomic data analysis. My research focuses on developing deep learning-based algorithms to explore mass spectrometry-based proteomic data. Meanwhile, we are also exploring the application of these algorithms for the study of dark proteome. These efforts include:<br>
 &#128309;Unsupervised learning methods to decode complex patterns in tandem mass spectra.<br>
 &#128309;Algorithms for de novo sequencing identification in tandem mass spectra.<br>
