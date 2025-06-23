@@ -28,4 +28,4 @@ Mass spectrometry data serve as both the starting point and the fundamental unit
 - __March 2023__: I come to Pengcheng Laboratory (Shenzhen) for internship and cooperation, focusing on research of self-supervising learning methods for mass spectrometry data.
 - __March 2021__: I join Helab to start my research. <br>
 
-&#10145;<b>Last update: June 2025</b> 
+&#9193;__Last update__: June 2025
