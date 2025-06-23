@@ -27,3 +27,5 @@ Mass spectrometry data serve as both the starting point and the fundamental unit
 - __February 2024__: Our denovo sequencing model based on "complementary spectrum" [Π-HelixNovo](https://academic.oup.com/bib/article/25/2/bbae021/7604886) is published in __Briefings in Bioinformatics__!<br>
 - __March 2023__: I come to Pengcheng Laboratory (Shenzhen) for internship and cooperation, focusing on research of self-supervising learning methods for mass spectrometry data.
 - __March 2021__: I join Helab to start my research. <br>
+
+&#10145;<b>Last update: June 2025</b> 
