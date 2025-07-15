@@ -25,7 +25,7 @@ Relevant paper: [PTM](https://www.nature.com/articles/nbt.3287), [ncORFs](https:
 I’m always happy to discuss new ideas and collaborate on algorithoms solving proteomic data challenges. Most importantly, we’re eager to partner with biologists wrestling with complex biological questions—let’s combine your domain expertise with our tools to uncover fresh insights! &#10024;
 
 # &#128266; News
-- __June 2025__: I present Π-DeepLaM (a deep learning-based strategy for lactylation identification) at 73rd ASMS conference and receive [ASMS 2025 Graduate Student Award](https://asms.org/about-asms-awards/student-travel-awards)(the only recipient from a Chinese university)! [Photo](../images/asms_award.png)<br>
+- __June 2025__: I present Π-DeepLaM (a deep learning-based strategy for lactylation identification) at 73rd ASMS conference and receive [ASMS 2025 Graduate Student Award](https://asms.org/about-asms-awards/student-travel-awards) (the only recipient from a Chinese university) ! [Photo](../images/asms_award.png)<br>
 - __September 2024 & January 2025__: I simultaneously win the first-class scholarship for graduate students from Tsinghua University and the National Center for Protein Sciences (Beijing), which is an incredible honor  and a great encouragement to me!<br>
 - __January 2025__: Our non-autoregressive denovo sequencing model [Π-PrimeNovo](https://rdcu.be/d5o3G) is published in __Nature Communications__!<br>
 - __June 2024__: I present Π-SPECFormer (a pre-trained model for mass spectrometry-based proteomic data) at 72nd ASMS conference!<br>
