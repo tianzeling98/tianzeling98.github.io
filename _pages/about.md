@@ -18,7 +18,7 @@ Relevant paper: [Π-PrimeNovo](https://www.nature.com/articles/s41467-024-55021-
 &#128309;__Part 2: Precision Quantification__<br>
 Protein quantification suffers from technical biases introduced during digestion, chromatography, and MS detection. We’re building deep learning tools to correct these systematic biases and achieve true quantitative accuracy.<br>
 Relevant paper: [LFAQ](https://pubs.acs.org/doi/10.1021/acs.analchem.8b03267).<br>
-&#128309;__Part 3: "Dark Proteome" exploration__<br>
+&#128309;__Part 3: "Dark Proteome" Exploration__<br>
 Much proteomic data remains uncharted—a "dark matter" part likely rich with undiscovered biological insights. Based on our algorithms, we’re systematically exploring mutations, PTMs, ncORFs, and other cryptic features hiding within this space.<br>
 Relevant paper: [PTM](https://www.nature.com/articles/nbt.3287), [ncORFs](https://www.nature.com/articles/nrm.2017.58).<br>
 # Let’s collaborate!
