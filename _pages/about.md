@@ -12,13 +12,13 @@ I am currently a Ph.D. candidate at [Tsinghua University](https://life.tsinghua.
 # &#128073; Research Interests
 ![photo](../images/MyResearch.png)
 Mass spectrometry (MS) data form the foundation of proteomic analysis. My research develops deep learning algorithms to analysis MS data and applies them for extracting biological insights from dark proteome. This includes three interconnected directions:<br>
-## &#128309;Part 1: Sequences Decoding<br>
+&#128309;__Part 1: Sequences Decoding__<br>
 Converting MS/MS spectra into peptide sequences is the cornerstone of proteomics. We focus on: (1) Unsupervised learning methods to decode spectral patterns; (2) De novo sequencing strategies for database-independent peptide identification.<br>
 Relevant paper: [Π-PrimeNovo](https://www.nature.com/articles/s41467-024-55021-3), [Π-HelixNovo](https://academic.oup.com/bib/article/25/2/bbae021/7604886).<br>
-## &#128309;Part 2: Precision Quantification<br>
+&#128309;__Part 2: Precision Quantification__<br>
 Protein quantification suffers from technical biases introduced during digestion, chromatography, and MS detection. We’re building deep learning tools to correct these systematic biases and achieve true quantitative accuracy.<br>
 Relevant paper: [LFAQ](https://pubs.acs.org/doi/10.1021/acs.analchem.8b03267).<br>
-## &#128309;Part 3: "Dark Proteome" exploration<br>
+&#128309;__Part 3: "Dark Proteome" exploration__<br>
 Much proteomic data remains uncharted—a "dark matter" part likely rich with undiscovered biological insights. Based on our algorithms, we’re systematically exploring mutations, PTMs, ncORFs, and other cryptic features hiding within this space.<br>
 Relevant paper: [PTM](https://www.nature.com/articles/nbt.3287), [ncORFs](https://www.nature.com/articles/nrm.2017.58).<br>
 # Let’s collaborate!
