@@ -22,6 +22,6 @@ Relevant paper: [LFAQ](https://pubs.acs.org/doi/10.1021/acs.analchem.8b03267).<b
 Much proteomic data remains uncharted—a "dark matter" part likely rich with undiscovered biological insights. Based on our algorithms, we’re systematically exploring mutations, PTMs, ncORFs, and other cryptic features hiding within this space.<br>
 Relevant paper: [PTM](https://www.nature.com/articles/nbt.3287), [ncORFs](https://www.nature.com/articles/nrm.2017.58).<br>
 <br>
-&#10024;__Let’s collaborate!__
+&#10024;__Let’s collaborate__<br>
 I’m always happy to discuss new ideas and collaborate on algorithoms solving proteomic data challenges. Most importantly, we’re eager to collaborate with biologists to tackle complex biological questions for fresh insights. Reach out anytime! <br>
 &#9193;__Last update__: July 2025
