@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # &#128515; About me
-Hi! I am currently a Ph.D. candidate at [Tsinghua University](https://life.tsinghua.edu.cn/), jointly trained with the National Center for Protein Sciences (Beijing). I am supervised by Prof. [Fuchu He](https://pi-hub.org.cn/news/show_who_scientific_info/91) / [Cheng Chang](https://i-share.ncpsb.org.cn/genee/post/167). Before this, I obtained my bachelor's degree from [Sun Yat-sen University](https://lifesciences.sysu.edu.cn/). Currently, I am focusing on advancing AI technologies to decode mass spectrometry-based proteomic data.<br> 
+Hi! I am currently a Ph.D. candidate at [Tsinghua University](https://life.tsinghua.edu.cn/) under the supervision of Prof. [Fuchu He](https://pi-hub.org.cn/news/show_who_scientific_info/91) / Prof. [Cheng Chang](https://i-share.ncpsb.org.cn/genee/post/167). Prior to this, I obtained my bachelor's degree from [Sun Yat-sen University](https://lifesciences.sysu.edu.cn/). Currently, I am focusing on developing AI-driven methods to transform mass spectrometry-based proteomic data into biological discovery.<br> 
 
 # &#128073; Research Interests
 ![photo](../images/MyResearch.png)
