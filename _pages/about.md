@@ -14,7 +14,7 @@ Hi! I am currently a Ph.D. candidate at [Tsinghua University](https://life.tsing
 Mass spectrometry (MS) data form the foundation of proteomic analysis. My research focus on developing deep learning algorithms to analysis MS data and applying them to extract biological insights from dark proteome. This includes three interconnected directions:<br>
 &#128293;__Part 1: Sequences Decoding__<br>
 Converting MS/MS spectra into peptide sequences is the cornerstone of proteomics. We focus on: (1) Unsupervised learning methods to decode spectral patterns; (2) De novo sequencing strategies for database-independent peptide identification.<br>
-Relevant paper: [Π-PrimeNovo](https://www.nature.com/articles/s41467-024-55021-3), [Π-HelixNovo](https://academic.oup.com/bib/article/25/2/bbae021/7604886).<br>
+Relevant paper: [π-PrimeNovo](https://www.nature.com/articles/s41467-024-55021-3), [π-HelixNovo](https://academic.oup.com/bib/article/25/2/bbae021/7604886).<br>
 &#128293;__Part 2: Precision Quantification__<br>
 Protein quantification suffers from technical biases introduced during digestion, chromatography, and MS detection. We’re building deep learning tools to correct these systematic biases and achieve true quantitative accuracy.<br>
 Relevant paper: [LFAQ](https://pubs.acs.org/doi/10.1021/acs.analchem.8b03267).<br>
