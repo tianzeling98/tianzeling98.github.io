@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # &#128266; News
+- __September 2025__: I win the first-class scholarship for graduate students from Tsinghua University. This is my second time receiving this award!<br>
 - __June 2025__: I present Π-DeepLaM (a deep learning-based strategy for lactylation identification) at 73rd ASMS conference and receive [ASMS 2025 Graduate Student Award](https://asms.org/about-asms-awards/student-travel-awards) (the only recipient from a Chinese university) ! [Photo](../images/asms_award.png)<br>
 - __September 2024 & January 2025__: I simultaneously win the first-class scholarship for graduate students from Tsinghua University and the National Center for Protein Sciences (Beijing), which is an incredible honor  and a great encouragement to me!<br>
 - __January 2025__: Our non-autoregressive denovo sequencing model [Π-PrimeNovo](https://rdcu.be/d5o3G) is published in __Nature Communications__!<br>
